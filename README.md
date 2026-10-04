@@ -1,4 +1,4 @@
-# 🗡️ El secret de Rupit
+# El secret de Rupit
 
 **El secret de Rupit** és un videojoc retro de tipus aventura/acció integrat en una sola pàgina web (HTML5 Canvas i JavaScript pur). 
 
